@@ -67,17 +67,17 @@ Required library is the Adafruit\_SoftServo library available at [https://github
 
 _**\***_/
 
-## include   // SoftwareServo \(works on non PWM pins\)
+include   // SoftwareServo \(works on non PWM pins\)
 
-## define SERVOPIN 0
+ define SERVOPIN 0
 
-## define INTERVALO\_PISCA     150  // tempo para inversão do led
+ define INTERVALO\_PISCA     150  // tempo para inversão do led
 
-## define INTERVALO\_ATUALIZA  10    //tempo para atualizar o servo: minimo 5
+ define INTERVALO\_ATUALIZA  10    //tempo para atualizar o servo: minimo 5
 
-## define MINIMO 30      //meno valor 0
+define MINIMO 30      //meno valor 0
 
-## define MAXIMO 149    //maior valor 179
+define MAXIMO 149    //maior valor 179
 
 const int LED = 1;
 
