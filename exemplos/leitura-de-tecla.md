@@ -8,7 +8,13 @@ Nesse exemplo vamos fazer a leitura de uma tecla e acionar um LED quando a mesma
 
 ## Materiais
 
-Placa Franzininho; Protoboard; LED 3mm; 1 Resistor 220; 1 Resistor de 1K 1 Botão Jumpers macho/fêmea;
+Placa Franzininho; 
+Protoboard; 
+LED 3mm; 
+1 Resistor 220; 
+1 Resistor de 1K 
+1 Botão
+Jumpers macho/fêmea;
 
 ## Circuito
 
